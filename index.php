@@ -16,6 +16,9 @@ and open the template in the editor.
         // put your code here
         ?>
         <h2>Projet 2 Git Hub</h2>
-        <p>eeeeeeeeeeeeeeeeeeeeeeeeeezaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p>
+        <p>watch cats 2 </p>
+        
+        <h3> Tu as pas bien fait ton travail</h3>
+        <p> Vas modifier</p>
     </body>
 </html>
