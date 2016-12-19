@@ -11,9 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Projet Git Hub </h1>
-        <p> test projet Git en cours <p>
+        <p> test projet Git en cours </p>
         <?php
         // put your code here
         ?>
+        <h2>Projet 2 Git Hub</h2>
+        <p>eeeeeeeeeeeeeeeeeeeeeeeeeezaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p>
     </body>
 </html>
